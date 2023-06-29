@@ -10,8 +10,9 @@ body {
     margin: auto;
 }
 
-
-
+p{
+    margin-bottom: 2rem;
+}
 
 img {
     float: left;
@@ -21,8 +22,8 @@ img {
 
 .email {
     color: #5CBEE3;
-    padding-top: 10px;
 }
+
 .container{
     max-width: 1170px;
     margin:auto;
@@ -36,14 +37,13 @@ img {
     background-color: #0F0E17 ;
     box-shadow: 0 0 20px  rgba(15, 14, 23, .5);
     margin: 1rem;
+    line-height: 2rem;
 }
-
-
 
 
 h1 {
     color: #E53170;
-    margin: 2rem 0;
+    margin: 2rem ;
     text-align: center;
 }
 

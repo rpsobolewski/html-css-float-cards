@@ -3,3 +3,47 @@
     margin: 0;
     box-sizing: border-box;
 }
+body{
+    font-family: 'Fredoka', sans-serif;
+    
+}
+
+.container{
+    max-width: 1170px;
+    margin:auto;
+    width: 80%;
+}
+
+.cas{
+    float: left;
+    width: calc(100% / 3);
+    color: white;
+    background-color: #0F0E17 ;
+    box-shadow: 0 0 20px  rgba(15, 14, 23, .5);
+    margin: 1rem;
+    
+}
+
+img{
+    float: left;
+    height: 70px;
+}
+
+
+img{
+    max-width: 100%;
+}
+
+
+h1{
+    color:  #E53170;
+    margin: 2rem 0;
+    text-align: center;
+}
+
+
+.clearfix::after{
+    content: "";
+    display: table;
+    clear: both;
+}

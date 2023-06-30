@@ -10,7 +10,7 @@ body {
     margin: auto;
 }
 
-p{
+p {
     margin-bottom: 2rem;
 }
 
@@ -24,18 +24,18 @@ img {
     color: #5CBEE3;
 }
 
-.container{
+.container {
     max-width: 1170px;
-    margin:auto;
+    margin: auto;
     width: 90%;
 }
 
-.cas{
+.cas {
     float: left;
     width: calc(90% / 3);
     color: white;
-    background-color: #0F0E17 ;
-    box-shadow: 0 0 20px  rgba(15, 14, 23, .5);
+    background-color: #0F0E17;
+    box-shadow: 0 0 20px rgba(15, 14, 23, .5);
     margin: 1rem;
     line-height: 2rem;
 }
@@ -43,7 +43,7 @@ img {
 
 h1 {
     color: #E53170;
-    margin: 2rem ;
+    margin: 2rem;
     text-align: center;
 }
 
